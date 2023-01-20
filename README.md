@@ -5,7 +5,7 @@
 
 # Repositori d'automatismes i eines per a streamers
 
-Aquest repositori inclou automatismes i eines que he desenvolupat per ajudar en les meves transmissions en directe.
+Aquest repositori inclou automatismes i eines que he recollit i desenvolupat per ajudar en les meves transmissions en directe.
 
 ## Aplicacions
 
